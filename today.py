@@ -24,30 +24,27 @@ CACHE = ROOT / "cache" / "stats.json"
 # ───────────────────────────── PROFILE ─────────────────────────────
 # Fill in your own details. Use None for an empty spacer line.
 HEADER = "dtheo91@github"
-BIRTHDAY = dt.date(1991, 1, 1)  # used for "Uptime"; change to your birthday
+BIRTHDAY = dt.date(1991, 12, 13)  # used for "Uptime"
 
 PROFILE = [
-    ("OS", "macOS, Ubuntu 24.04, WSL2"),
+    ("OS", "macOS"),
     ("Uptime", "{uptime}"),
-    ("Host", "<Arbeitgeber / Uni>"),
+    ("Host", "Wertgarantie Gruppe"),
     ("Kernel", "Machine Learning Engineer"),
     ("IDE", "VS Code, PyCharm, JupyterLab"),
     None,
-    ("Languages.Programming", "Python, SQL, Bash"),
-    ("Languages.Real", "Deutsch, English"),
+    ("Languages.Programming", "Python, SQL"),
+    ("Languages.Real", "German, English"),
     None,
-    ("ML.Frameworks", "PyTorch, scikit-learn, Lightning"),
-    ("ML.Data", "NumPy, pandas, Polars"),
-    ("ML.Models", "Hugging Face, XGBoost, timm"),
-    ("ML.Ops", "MLflow, W&B, Docker, FastAPI"),
-    ("ML.Focus", "Deep Learning, NLP, Computer Vision"),
-    ("Hobbies", "<Hobby 1>, <Hobby 2>"),
+    ("ML.Frameworks", "PyTorch, scikit-learn"),
+    ("ML.Data", "NumPy, pandas"),
+    ("ML.Ops", "MLflow, Docker, FastAPI"),
 ]
 
 CONTACT = [
-    ("Email", "<deine@email.de>"),
-    ("LinkedIn", "<linkedin-handle>"),
-    ("Kaggle", "<kaggle-handle>"),
+    ("Email", "dustintheobald@hotmail.de"),
+    ("LinkedIn", "in/dustintheobald-ds"),
+    ("Website", "dustintheobald.dev"),
 ]
 # ───────────────────────────────────────────────────────────────────
 
