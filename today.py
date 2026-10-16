@@ -31,7 +31,7 @@ PROFILE = [
     ("Uptime", "{uptime}"),
     ("Host", "Wertgarantie Gruppe"),
     ("Kernel", "Machine Learning Engineer"),
-    ("IDE", "VS Code, PyCharm, JupyterLab"),
+    ("IDE", "PyCharm"),
     None,
     ("Languages.Programming", "Python, SQL"),
     ("Languages.Real", "German, English"),
