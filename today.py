@@ -38,7 +38,9 @@ PROFILE = [
     None,
     ("ML.Frameworks", "PyTorch, scikit-learn"),
     ("ML.Data", "NumPy, pandas"),
-    ("ML.Ops", "MLflow, Docker, FastAPI"),
+    ("ML.Ops", "MLflow, Docker, FastAPI, GitLab CI/CD"),
+    ("ML.Cloud", "Azure ML / Foundry"),
+    ("Databases", "PostgreSQL / pgvector"),
 ]
 
 CONTACT = [
