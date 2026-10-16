@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',Menlo,monospace" width="868px" height="572px" font-size="14px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #953800;} .value {fill: #0a3069;} .cc {fill: #c2cfde;} .add {fill: #1a7f37;} .del {fill: #cf222e;} text, tspan {white-space: pre;}
+</style>
+<rect width="868px" height="572px" fill="#f6f8fa" rx="15"/>
+<text x="20" y="30" fill="#24292f" class="ascii">
+<tspan x="20" y="30"></tspan>
+<tspan x="20" y="48">     @@@@@@@@@@@@@@@k</tspan>
+<tspan x="20" y="66">   @@@#@@@@@@@@@@#@@@@</tspan>
+<tspan x="20" y="84">  @@@@#kkk***k*%#@@@@@@@</tspan>
+<tspan x="20" y="102"> @@@*i:```,,,``,,:|l%@@@@</tspan>
+<tspan x="20" y="120"> @#l!,`.......&#x27;&#x27;`,;iik&amp;@@</tspan>
+<tspan x="20" y="138">&amp;@j:,&#x27;.........&#x27;`,:|il*%%&amp;</tspan>
+<tspan x="20" y="156"> @i,`&#x27;&#x27;........&#x27;`,:;ik%**%</tspan>
+<tspan x="20" y="174"> &amp;i:``&#x27;.........&#x27;`,;|j***k</tspan>
+<tspan x="20" y="192"> &amp;j;,&#x27;.........,i*%*kk*lk**</tspan>
+<tspan x="20" y="210"> #li;!j*&amp;*!&#x27;.,k#kl@#@k*kj&amp;@&amp;</tspan>
+<tspan x="20" y="228">  *!!lkj&amp;l!,&#x27;:@&amp;!;|!|!iji#@k</tspan>
+<tspan x="20" y="246">  i!:,,`::``.`%#i:,``:|jj*@</tspan>
+<tspan x="20" y="264">   !,`&#x27;`&#x27;.&#x27;`.&#x27;j@k,&#x27;.&#x27;,i*k@%</tspan>
+<tspan x="20" y="282">   |,&#x27;..&#x27;&#x27;&#x27;`&#x27;&#x27;!%&amp;k`&#x27;&#x27;,|*%@</tspan>
+<tspan x="20" y="300">    !``!!``;;!k&amp;*j|!!|k%#</tspan>
+<tspan x="20" y="318">    j;!i;;|;;;;|il#i;|&amp;%#</tspan>
+<tspan x="20" y="336">    l!;`;!i:,,,:!jj,;j&amp;##</tspan>
+<tspan x="20" y="354">     k!::,&#x27;````,:!|;i&amp;@@@@%i</tspan>
+<tspan x="20" y="372">      *l|;`..`,:::;j%@@@@@#l</tspan>
+<tspan x="20" y="390">      :|kl|;``&#x27;`:|k#@@@#&amp;#@l</tspan>
+<tspan x="20" y="408">     `.,i!lkjiijl&amp;@@&amp;%*k*&amp;%</tspan>
+<tspan x="20" y="426">    ,..;j;;|;|ijl*&amp;kjjjjlk</tspan>
+<tspan x="20" y="444">   :..:*|!;;,,,:;ij|!|!|i</tspan>
+<tspan x="20" y="462">  ;..`lk|!:;;::;;;;::;;!</tspan>
+<tspan x="20" y="480">  ...&#x27;j%||;::;!!;;,,,::</tspan>
+<tspan x="20" y="498"> &#x27;....,#ji!;,,,,,,`,:</tspan>
+<tspan x="20" y="516">......&#x27;:|ki;,,:,,```</tspan>
+<tspan x="20" y="534">;;;|  ,:,;li,,```</tspan>
+</text>
+<text x="339" y="30" fill="#24292f">
+<tspan x="339" y="48">dtheo91@github —————————————————————————————————————————————</tspan>
+<tspan x="339" y="66"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">macOS, Ubuntu 24.04, WSL2</tspan></tspan>
+<tspan x="339" y="84"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">35 years, 9 months, 15 days</tspan></tspan>
+<tspan x="339" y="102"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">&lt;Arbeitgeber / Uni&gt;</tspan></tspan>
+<tspan x="339" y="120"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Machine Learning Engineer</tspan></tspan>
+<tspan x="339" y="138"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, PyCharm, JupyterLab</tspan></tspan>
+<tspan x="339" y="156"><tspan class="cc">. </tspan></tspan>
+<tspan x="339" y="174"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Python, SQL, Bash</tspan></tspan>
+<tspan x="339" y="192"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Deutsch, English</tspan></tspan>
+<tspan x="339" y="210"><tspan class="cc">. </tspan></tspan>
+<tspan x="339" y="228"><tspan class="cc">. </tspan><tspan class="key">ML</tspan><tspan class="cc">.</tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">PyTorch, scikit-learn, Lightning</tspan></tspan>
+<tspan x="339" y="246"><tspan class="cc">. </tspan><tspan class="key">ML</tspan><tspan class="cc">.</tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">NumPy, pandas, Polars</tspan></tspan>
+<tspan x="339" y="264"><tspan class="cc">. </tspan><tspan class="key">ML</tspan><tspan class="cc">.</tspan><tspan class="key">Models</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Hugging Face, XGBoost, timm</tspan></tspan>
+<tspan x="339" y="282"><tspan class="cc">. </tspan><tspan class="key">ML</tspan><tspan class="cc">.</tspan><tspan class="key">Ops</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">MLflow, W&amp;B, Docker, FastAPI</tspan></tspan>
+<tspan x="339" y="300"><tspan class="cc">. </tspan><tspan class="key">ML</tspan><tspan class="cc">.</tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Deep Learning, NLP, Computer Vision</tspan></tspan>
+<tspan x="339" y="318"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">&lt;Hobby 1&gt;, &lt;Hobby 2&gt;</tspan></tspan>
+<tspan x="339" y="336"></tspan>
+<tspan x="339" y="354">— Contact ——————————————————————————————————————————————————</tspan>
+<tspan x="339" y="372"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">&lt;deine@email.de&gt;</tspan></tspan>
+<tspan x="339" y="390"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">&lt;linkedin-handle&gt;</tspan></tspan>
+<tspan x="339" y="408"><tspan class="cc">. </tspan><tspan class="key">Kaggle</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">&lt;kaggle-handle&gt;</tspan></tspan>
+<tspan x="339" y="426"></tspan>
+<tspan x="339" y="444">— GitHub Stats —————————————————————————————————————————————</tspan>
+<tspan x="339" y="462"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">–</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">–</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">–</tspan></tspan>
+<tspan x="339" y="480"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">–</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">–</tspan></tspan>
+<tspan x="339" y="498"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">–</tspan> ( <tspan class="add">–++</tspan>, <tspan class="del">–--</tspan> )</tspan>
+</text>
+</svg>
