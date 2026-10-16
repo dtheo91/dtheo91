@@ -27,7 +27,7 @@ HEADER = "dtheo91@github"
 BIRTHDAY = dt.date(1991, 12, 13)  # used for "Uptime"
 
 PROFILE = [
-    ("OS", "macOS"),
+    ("OS", "macOS (future-me: Omarchy)"),
     ("Uptime", "{uptime}"),
     ("Host", "Wertgarantie Gruppe"),
     ("Kernel", "Machine Learning Engineer"),
